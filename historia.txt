@@ -7,3 +7,5 @@ Mañana nos enfocaremos en su vida laboral
 Modificando el fichero
 
 Modificando sólo historia.txt
+
+Modificando ambos archivos
