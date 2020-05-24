@@ -13,6 +13,7 @@ Modificando ambos archivos
 Creando una rama para probar el merge.
 Vamos a colocar otro parrafo adicional para probar las modificaciones
 
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,11 @@ Esto nos permite reotmar un trabajo interesantes
 
 
 Hola esta es una razon de cambio en la rama Master.
+=======
+Vamos a crear un cambio en la nueva rama
+
+Voy ha hacer un nuevo commit en la rama cabecera para hacer cambios por separdos. De esta manera
+vamos a probar las cosas que suceden cuando hago un merge.
+
+
+>>>>>>> cabecera
