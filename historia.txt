@@ -11,8 +11,11 @@ Modificando sólo historia.txt
 Modificando ambos archivos
 
 Creando una rama para probar el merge.
-
 Vamos a colocar otro parrafo adicional para probar las modificaciones
+
+
+
+
 Ahora vamos a ver cosas interesantes.
 Esto nos permite reotmar un trabajo interesantes
 
