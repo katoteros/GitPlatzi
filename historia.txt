@@ -9,3 +9,6 @@ Modificando el fichero
 Modificando sólo historia.txt
 
 Modificando ambos archivos
+
+Creando una rama para probar el merge.
+
