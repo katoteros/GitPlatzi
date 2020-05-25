@@ -14,7 +14,6 @@ Creando una rama para probar el merge.
 
 Vamos a crear un cambio en la nueva rama
 
-Voy ha hacer un nuevo commit en la rama cabecera para hacer cambios por separdos. De esta manera
-vamos a probar las cosas que suceden cuando hago un merge.
+No me gustan los cambios en Master. Formemos una revolución.
 
 

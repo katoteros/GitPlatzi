@@ -4,4 +4,4 @@ modificando el archivo
 
 Solo archivo.txt
 
-Modificando ambos archivos
+Cabecera al poder
