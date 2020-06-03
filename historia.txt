@@ -1,0 +1,19 @@
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Mañana nos enfocaremos en su vida laboral
+
+Modificando el fichero
+
+Modificando sólo historia.txt
+
+Modificando ambos archivos
+
+Creando una rama para probar el merge.
+
+Vamos a crear un cambio en la nueva rama
+
+No me gustan los cambios en Master. Formemos una revolución.
+
+
