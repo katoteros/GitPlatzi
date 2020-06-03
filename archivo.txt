@@ -6,3 +6,6 @@ Solo archivo.txt
 
 Modificando el último commit en Master
 Cabecera al poder
+
+Estoy ingresando como nuevo trabajador a la empresa
+
