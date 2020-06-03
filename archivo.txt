@@ -10,3 +10,5 @@ Cabecera al poder
 Estoy ingresando como nuevo trabajador a la empresa
  Porbando que cambio en la configuración del usuario Katoteros se efectuó 
 correctamente
+
+Ignacio tambien quiere cambiar algo en la rama master.
