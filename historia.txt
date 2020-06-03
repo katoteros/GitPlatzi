@@ -23,3 +23,6 @@ Esto nos permite reotmar un trabajo interesantes
 
 
 Estoy contento con el master
+
+Quiero probar la conectividad por SSH
+
