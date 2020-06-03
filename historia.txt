@@ -26,3 +26,5 @@ Estoy contento con el master
 
 Quiero probar la conectividad por SSH
 
+Soy transistor y fui contratado para corregir todo lo que se ha hecho mal hasta el momento
+
